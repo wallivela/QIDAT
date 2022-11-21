@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="colorsss">
+        <item name="android:layout_width">400dp</item>
+        <item name="android:layout_height">353dp</item>
+        <item name="android:layout_marginLeft">20dp</item>
+        <item name="android:layout_marginTop">32dp</item>
+        <item name="android:layout_marginRight">20dp</item>
+        <item name="android:background">@drawable/corazon</item>
+    </style>
+</resources>

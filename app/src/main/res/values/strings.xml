@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">QidaT</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="logote">logote</string>
+    <string name="a_cuidarte">a cuidarte..</string>
+    <string name="productos">productos</string>
+    <string name="books">Books</string>
+</resources>
